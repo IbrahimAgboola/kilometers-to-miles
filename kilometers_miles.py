@@ -1,8 +1,8 @@
-# program to convert kilometers & meters
-# convert7.38 miles to kilometers
-# convert 72.25 kilometers to miles
+# Program to convert kilometers and meters
+# Convert 7.38 miles to kilometers
+# Convert 72.25 kilometers to miles
 # 1m = 1.61km
-# round() function rounds the decimal places to the specified number
+# The round() function rounds the decimal places to the specified number
 
 kilometers = 72.25
 
